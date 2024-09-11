@@ -4,7 +4,7 @@ Welcome to the repository for modelling and simulation exercises! This repositor
 
 ---
 
-## Set 1 (09-01-2024): Logistic Modelling of Economic Data
+## Set 1 : Logistic Modelling of Economic Data
 
 ### 1. The Growth of IBM:
 This project involves logistic modelling of IBM's economic growth over time using provided datasets (`groibm.dat` and `prof-ibm.dat`). The first dataset includes IBM's annual revenue, employee count, and year since 1914. The second dataset provides annual profit data. The goal is to:
@@ -20,7 +20,7 @@ Using data from the top six GDP countries (USA, China, Japan, Germany, India, UK
 
 ---
 
-## Set 2 (23-01-2024): Compartment Modelling of Linear Systems
+## Set 2 : Compartment Modelling of Linear Systems
 
 ### 1. Pollutant Concentration in a Lake:
 This exercise models the concentration of pollutants in a lake using a linear differential equation, with fixed flow rate and lake volume.
@@ -36,7 +36,7 @@ Simulate the dynamics of a course of medicine administered over time using two s
 
 ---
 
-## Set 3 (30-01-2024): Modifications of the Logistic Equation
+## Set 3 : Modifications of the Logistic Equation
 
 ### 1. Logistic Equation with Harvesting:
 The logistic equation is modified to include a harvesting rate. This project will simulate population growth under different harvesting rates.
@@ -48,7 +48,7 @@ This project models the spread of agricultural innovations among farmers using a
 
 ---
 
-## Set 4 (13-02-2024): Constrained Growth Beyond the Logistic Model
+## Set 4 : Constrained Growth Beyond the Logistic Model
 
 ### 1. Gompertz Equation for Tumor Growth:
 The Gompertz equation models tumor growth with rescaled variables.
@@ -60,7 +60,7 @@ This model simulates population growth under the Allee effect, where growth is h
 
 ---
 
-## Set 5 (20-02-2024): Modelling Data with Power Laws
+## Set 5 : Modelling Data with Power Laws
 
 ### 1. Pareto Distribution of Wealth in India:
 Using wealth distribution data from 2021, this project models wealth inequality using Pareto’s law.
@@ -72,7 +72,7 @@ Model dependency distributions in Debian releases using Zipf's law.
 
 ---
 
-## Set 6 (27-02-2024): Modelling Traffic Flow Data with a Bimodal Function
+## Set 6 : Modelling Traffic Flow Data with a Bimodal Function
 
 ### 1. Bimodality in Traffic Flows:
 Model bi-directional traffic flows using traffic data from Jackson, Alabama.
@@ -80,7 +80,7 @@ Model bi-directional traffic flows using traffic data from Jackson, Alabama.
 
 ---
 
-## Set 7 (05-03-2024): Modelling Strategic Conflict Between Nations
+## Set 7 : Modelling Strategic Conflict Between Nations
 
 ### 1. Richardson's Model of Conflict:
 This project models strategic conflict between two nations using Richardson’s equations.
@@ -88,7 +88,7 @@ This project models strategic conflict between two nations using Richardson’s 
 
 ---
 
-## Set 8 (12-03-2024): Battles and War Games
+## Set 8 : Battles and War Games
 
 ### 1. Battle of Iwo Jima:
 Model the battle between Japanese and US forces using Lanchester's square law of combat.
